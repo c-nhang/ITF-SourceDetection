@@ -4,7 +4,9 @@
 1. [Chapter 1: Network Centrality](https://c-nhang.github.io/ITF-SourceDetection/)
 2. [Chapter 2: Digital Contact Tracing - Source Detection Simulator](https://c-nhang.github.io/ITF-SourceDetection/)
 3. [Chapter 3: Distance-based Source Estimator](https://c-nhang.github.io/ITF-SourceDetection/)
-4. [Chapter 4: Limitations](https://c-nhang.github.io/ITF-SourceDetection/)
+4. [Chapter 4: Novel Framework](https://c-nhang.github.io/ITF-SourceDetection/)
+5. [Chapter 5: Limitations](https://c-nhang.github.io/ITF-SourceDetection/)
+6. [Chapter 6: Comprehensive Report](https://c-nhang.github.io/ITF-SourceDetection/)
 
 The above table links to a set of interactive notebooks for learning network science for source detection.
 
