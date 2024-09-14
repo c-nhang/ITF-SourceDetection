@@ -1,4 +1,4 @@
-# Development of Massive Data Analytics for Rumor Source Detection and Faked News Invalidation against Infodemic (Principal Investigator: Prof Chee Wei Tan; Co-Investigator: Prof Guanrong Chen)
+# Development of Massive Data Analytics for Rumor Source Detection and Faked News Invalidation against Infodemic (PI: Prof Chee Wei Tan; Co-I: Prof Guanrong Chen)
 
 ## Table of Contents
 1. [Chapter 1: Network Centrality](https://c-nhang.github.io/ITF-SourceDetection/)
