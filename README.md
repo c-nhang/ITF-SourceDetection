@@ -1,7 +1,9 @@
 # Development of Massive Data Analytics for Rumor Source Detection and Faked News Invalidation against Infodemic <br> (PI: Prof Chee Wei Tan; Co-I: Prof Guanrong Chen)
 
-## Paper
+## Publications
 C. N. Hang, P. -D. Yu, S. Chen, C. W. Tan and G. Chen, "MEGA: Machine Learning-Enhanced Graph Analytics for Infodemic Risk Management," in <i>IEEE Journal of Biomedical and Health Informatics</i>, vol. 27, no. 12, pp. 6100-6111, Dec. 2023, doi: 10.1109/JBHI.2023.3314632.
+
+C. W. Tan and P. -D. Yu, "Contagion Source Detection in Epidemic and Infodemic Outbreaks: Mathematical Analysis and Network Algorithms," in <i>Foundations and Trends® in Networking<i>, vol. 13, no. 2-3, pp. 107-251, Jul. 2023, http://dx.doi.org/10.1561/1300000068
 
 ## Table of Contents
 1. [Chapter 1: Network Centrality](https://c-nhang.github.io/ITF-SourceDetection/)
